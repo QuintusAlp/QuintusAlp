@@ -1,3 +1,1 @@
-- @QuintusAlp
-- I'm a student a at 19 school Bruxelle.
-- At the moment I just share my shool projects.
+![computer_pixelart](https://github.com/QuintusAlp/QuintusAlp/assets/168297104/ea46add0-df61-4ab9-bd4f-fe40f861a4d7)
