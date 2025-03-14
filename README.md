@@ -12,6 +12,7 @@
 <img src="./img/blackcat.jpeg" height="150" alt="funny cat"  />
 </div>
 
+<h2 align="left">Tech Stack</h2>
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -36,4 +37,3 @@
 ###
 
 <br clear="both">
-###
