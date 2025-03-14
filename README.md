@@ -1,7 +1,12 @@
 
-<h2 align="left">Hi 👋! My name is quintus</h2>
+<h2 align="left">Hi 👋! I'm quentin</h2>
+<h3 align="left">42 student (campus 19 Bruxelle)</h3>
 
-<p align="left">- 🧑‍🎓 Student at 42 school (19 campus)<br>- Currently working on minirt project<br>- you can contact me at alpesse.q@outlook.fr</p>
+- 🔭 I’m currently working on **minirt 42 project**
+
+- 🌱 I’m currently learning **Rateracing**
+
+- 📫 How to reach me **quentin.alpesse@student.s19.be**
 
 <h2 align="left">Stats</h2>
 <div align="left">
@@ -35,6 +40,8 @@
 <h2 align="left">Connect with me :)</h2>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://linkedin.com/in/quentin alpesse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="quentin alpesse" height="30" width="40" /></a>
 </div>
 <br clear="both">
+
+
