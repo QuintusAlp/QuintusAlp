@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **minirt 42 project**
 
-- 🌱 I’m currently learning **Rateracing**
+- 🌱 I’m currently learning **Ray Tracing**
 
 - 📫 How to reach me **quentin.alpesse@student.s19.be**
 
